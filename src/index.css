@@ -3,12 +3,16 @@
 @tailwind utilities;
 
 body{
-  background: black;
+  background: #130f40;
   color: white;
 }
 .card{
-  background-color: rgb(19, 19, 19);
+  /* background-color: rgb(19, 19, 19); */
+  background-color: #CAD3C8;
+  color: black;
+  font-size: 20px;
+  max-width: 200px;
 }
 .header{
-  background-color: #15161a;
+  background-color: #30336b;
 }
