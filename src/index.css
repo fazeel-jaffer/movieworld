@@ -16,3 +16,8 @@ body{
 .header{
   background-color: #30336b;
 }
+@media screen and (max-width: 570px) {
+  .card{
+    max-width: 150px;
+  }
+}
